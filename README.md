@@ -2,7 +2,7 @@
 
 Welcome to the central portfolio for automated data processing, analytics pipelines, and AI script integrations offered by **José Alberto Benítez**.
 
-This repository contains representative code templates and end-to-end demonstrations for **Basic**, **Standard**, and **Premium** service tiers for clients on **Fiverr** and **Workana**.
+This repository contains representative code templates and end-to-end demonstrations for **Basic**, **Standard**, and **Premium** service tiers tailored for international clients, businesses, and custom freelance projects.
 
 ---
 
